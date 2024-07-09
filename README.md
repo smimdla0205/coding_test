@@ -9,9 +9,9 @@
 ## 공부할 책
 
 <div style="display: flex; gap: 5px">
-<img src="https://github.com/smimdla0205/coding_test/assets/114131736/7083ce68-96eb-45c0-8b60-e8ab24ba8d1a" width="400" height="300">
+<img src="https://github.com/smimdla0205/coding_test/assets/114131736/7083ce68-96eb-45c0-8b60-e8ab24ba8d1a">
 
-<img src="https://github.com/smimdla0205/coding_test/assets/114131736/160a7efa-d1b3-49b9-a6f7-9e2d1c96d487" width="400" height="300">
+<img src="https://github.com/smimdla0205/coding_test/assets/114131736/160a7efa-d1b3-49b9-a6f7-9e2d1c96d487">
 
 </div>
 
