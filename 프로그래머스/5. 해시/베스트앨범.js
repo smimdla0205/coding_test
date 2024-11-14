@@ -45,6 +45,3 @@ function solution(genres, plays) {
 
   return result;
 }
-
-console.log(solution(["classic", "pop", "classic", "classic", "pop"], [500, 600, 150, 800, 2500]));
-console.log(solution(["classic", "pop", "classic", "classic", "pop"], [500, 600, 150, 800, 2500]));
